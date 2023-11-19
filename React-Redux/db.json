@@ -1,0 +1,39 @@
+{
+    "videos":[
+        {
+            "id":1,
+            "name":"React Tutorial",
+            "views":89565
+        },
+        {
+            "id":2,
+            "name":"JavaScript Tutorial",
+            "views":4986
+        },
+        {
+            "id":3,
+            "name":"Redux Tutorial",
+            "views":18121
+        },
+        {
+            "id":4,
+            "name":"Bit Manuplation",
+            "views":149815
+        },
+        {
+            "id":5,
+            "name":"Prime Numbers",
+            "views":10136
+        },
+        {
+            "id":6,
+            "name":"LeetCode POTD",
+            "views":132
+        }
+    ],
+    "channel":{
+        "name" : "Code With Monu",
+        "subscribers":10756
+    }
+
+}

@@ -1,0 +1,13 @@
+export const VIDEOS_REQUEST = "VIDEOS_REQUEST";
+export const VIDEOS_SUCCESS = "VIDEOS_SUCCESS";
+export const VIDEOS_FAIL = "VIDEOS_FAIL";
+
+
+
+export const CHANNEL_REQUEST = "CHANNEL_REQUEST";
+export const CHANNEL_SUCCESS = "CHANNEL_SUCCESS";
+export const CHANNEL_FAIL = "CHANNEL_FAIL";
+
+
+export const UNSUBSCRIBE = "UNSUBSCRIBE";
+export const SUBSCRIBE = "SUBSCRIBE";
