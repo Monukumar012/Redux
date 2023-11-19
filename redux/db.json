@@ -1,0 +1,24 @@
+//  create to fetch data thorught api
+//  json-server use to make api url, where we can get this data
+//  eg-> http://localhost:3000/blogs , http://localhost:3000/user
+//   we can get also by id
+//   eg- http://localhost:3000/blogs/1, http://localhost:3000/user/3}
+
+{
+    "user":[
+        {"id":1,"name":"Monu","amount":10400},
+        {"id":2,"name":"Prince","amount":1000},
+        {"id":3,"name":"Nitish","amount":7500},
+        {"id":4,"name":"Anubhav","amount":4000},
+        {"id":5,"name":"Ritik","amount":9400},
+        {"id":6,"name":"Unoknown","amount":6600}
+    ],
+    "blogs":[
+        {"id":1,"name":"Monu Blog","length":104000},
+        {"id":2,"name":"Prince Blog","length":12000},
+        {"id":3,"name":"Nitish Blog","length":75004},
+        {"id":4,"name":"Anubhav Blog","length":44000},
+        {"id":5,"name":"Ritik Blog","length":944200},
+        {"id":6,"name":"Unoknown Blog","length":660750}
+    ]
+}
